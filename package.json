@@ -1,0 +1,31 @@
+{
+  "name": "cf-browserify-express",
+  "version": "0.0.0",
+  "description": "Browserifying an Express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrockBeaudry/cf-browserify-express"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Browserify"
+  ],
+  "author": "Brock Beaudry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrockBeaudry/cf-browserify-express/issues"
+  },
+  "homepage": "https://github.com/BrockBeaudry/cf-browserify-express",
+  "dependencies": {
+    "express": "^4.8.4",
+    "query": "^0.2.0"
+  },
+  "devDependencies": {
+    "browserify": "^5.10.0"
+  }
+}
